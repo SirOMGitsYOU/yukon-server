@@ -144,6 +144,14 @@
         "spawn": 0
     },
     {
+        "id": 803,
+        "name": "hq",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 1
+    },
+    {
         "id": 805,
         "name": "berg",
         "member": 0,
